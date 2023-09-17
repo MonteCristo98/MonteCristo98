@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonteCristo98
 - 👀 I’m interested in ML & AI
-- 🌱 I’m currently undergraduate student at FER, Zagreb
+- 🌱 I’m currently graduate student at FER, Zagreb
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
